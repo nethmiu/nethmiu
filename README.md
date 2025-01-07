@@ -1,5 +1,5 @@
-
 <h1 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  Hi , I'm Nethmi Umaya <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+
 <h3 align="center">🌟 Aspiring Tech Pro | 🚀 Building Solutions, One Line of Code at a Time | ✔ Problem Solver</h3>
 
 
@@ -21,8 +21,8 @@
 
 
 ## 🔧 About Me
-- 🔭 I’m currently working on **Employee Management System**
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently learning on **MERN**
+- 🧑‍🎓 I’m a **Software Engineering Undergraduate at SLIIT**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **nethmiumaya5@gmail.com**
 - ⚡ Fun fact: **Call me NU**
@@ -32,13 +32,11 @@
 
 
 ## 🌐 Connect with Me:
+
 <p align="left">
-  <a href="https://linkedin.com/in/nethmi umaya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmi umaya" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nethmi umaya silva" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethmi umaya silva" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/nethmi umaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmi umaya" height="30" width="40" /></a>
+<a href="https://fb.com/nethmi umaya silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethmi umaya silva" height="30" width="40" /></a>
+<a href="https://instagram.com/nethmiumaya5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nethmiumaya5" height="30" width="40" /></a>
 </p>
 
 ---
