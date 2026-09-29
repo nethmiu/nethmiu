@@ -124,7 +124,7 @@ const nethmi = {
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmiu&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak Stats" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nethmiu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
 
 </div>
 
